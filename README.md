@@ -7,10 +7,10 @@ Welcome to **cuddleKitty**! [cite_start]Follow the steps below to quickly clone,
 
 ## 🛠️ Prerequisites
 
-[cite_start]Before you begin, ensure you have **Node.js** and **Git** installed on your system[cite: 2].
+Before you begin, ensure you have **Node.js** and **Git** installed on your system.
 
-1. [cite_start]Open your terminal or command prompt[cite: 14].
-2. [cite_start]Verify your installations by running[cite: 7]:
+1. Open your terminal or command prompt.
+2. Verify your installations by running:
    ```bash
    git --version
    node --version
