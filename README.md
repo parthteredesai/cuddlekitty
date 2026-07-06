@@ -1,7 +1,7 @@
 
-# cuddleKitty 🐾
+# cuddleKitty 
 
-Welcome to **cuddleKitty**! [cite_start]Follow the steps below to quickly clone, install, and run the project locally on your machine[cite: 1].
+Welcome to **cuddleKitty**! [cite_start]Follow the steps below to quickly clone, install, and run the project locally on your machine.
 
 ---
 
