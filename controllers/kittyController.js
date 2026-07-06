@@ -92,7 +92,7 @@ module.exports.viewKitty = async (req, res, next) => {
         try {
 
             const response = await axios.post(
-                "http://127.0.0.1:8000/generate-description",
+    `${process.env.FASTAPI_URL}/generate-description`,
                 {
                     name: kitty.name,
                     breed: kitty.breed,

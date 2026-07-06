@@ -8,8 +8,8 @@ router.post("/", async (req, res) => {
 
     try {
 
-        const response = await axios.post(
-            "http://127.0.0.1:8000/chat",
+        await axios.post(
+            `${process.env.FASTAPI_URL}/chat`,
             {
                 message: req.body.message
             }

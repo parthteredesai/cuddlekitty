@@ -17,7 +17,7 @@ router.post("/find-match", async (req, res) => {
 
         // Send questionnaire + cats to FastAPI
         const response = await axios.post(
-            "http://127.0.0.1:8000/match-cats",
+    `${process.env.FASTAPI_URL}/match-cats`,
             {
                 questionnaire: req.body,
                 cats: cats
