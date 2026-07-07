@@ -195,9 +195,9 @@ uvicorn app:app --reload
 ### Home Page
 
 <p align="center">
-  <img src="images/dashboard.png" width="700">
+  <img src="/public/images/homepage.png" width="700">
   <br>
-  <em>Solar Monitoring Dashboard</em>
+  <em>cuddleKitty Homepage</em>
 </p>
 
 ### Kitty Listings
