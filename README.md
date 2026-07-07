@@ -200,27 +200,50 @@ uvicorn app:app --reload
   <em>cuddleKitty Homepage</em>
 </p>
 
+---
+
 ### Kitty Listings
 
-> Add screenshot here
+<p align="center">
+  <img src="/public/images/kittyListings.png" width="700">
+  <br>
+  <em>cuddleKitty kitty listings</em>
+</p>
 
 ---
 
 ### PawBot Chatbot
 
-> Add screenshot here
+<p align="center">
+  <img src="/public/images/pawBot.png">
+  <br>
+  <em>cuddleKitty AI Powered PawBot</em>
+</p>
 
 ---
 
 ### AI Matchmaking
 
-> Add screenshot here
+<p align="center">
+  <img src="/public/images/kittyMatchMaking.png" width="700">
+  <br>
+  <em>cuddleKitty Homepage</em>
+</p>
 
 ---
 
 ### Kitty Details
 
-> Add screenshot here
+<p align="center">
+  <img src="/public/images/kittyInfo1.png" width="700">
+  <br>
+</p>
+
+<p align="center">
+  <img src="/public/images/kittyInfo2.png" width="700">
+  <br>
+  <em>cuddleKitty Kitty Listing Details</em>
+</p>
 
 ---
 
