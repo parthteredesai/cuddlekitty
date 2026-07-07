@@ -65,7 +65,6 @@ An AI-powered cat adoption platform that helps users find their ideal feline com
 PawBot helps users with:
 
 - Cat care guidance
-- Breed recommendations
 - Adoption advice
 - Feeding information
 - General pet-related queries
@@ -74,7 +73,7 @@ PawBot helps users with:
 
 ## ❤️ AI Matchmaking
 
-Users complete a lifestyle questionnaire.
+Users answer a lifestyle questionnaire.
 
 The AI compares:
 
@@ -252,9 +251,7 @@ uvicorn app:app --reload
 - 💖 Wishlist / Favorites
 - 📧 Email notifications
 - 📊 Admin Dashboard
-- 🐱 Image-based breed detection
 - ❤️ Adoption request tracking
-- 🌙 Dark Mode
 - 🔔 Real-time notifications
 - 📱 Progressive Web App (PWA)
 
