@@ -248,6 +248,7 @@ uvicorn app:app --reload
 
 # 📌 Future Improvements
 
+- ☁️ AWS App Deployment
 - 💖 Wishlist / Favorites
 - 📧 Email notifications
 - 📊 Admin Dashboard
